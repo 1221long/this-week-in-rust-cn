@@ -8,6 +8,7 @@ cache
 .sass-cache
 **/.idea
 .DS_Store
+zh-cn/GT4T*
 
 # Publishing creations...
 publishing/email
