@@ -1,6 +1,7 @@
-标题：本周铁锈 570 编号：570 日期：2024 - 10 - 23 类别：本周铁锈
+标题：本周Rust 570 
+编号：570 日期：2024 - 10 - 23 类别：本周Rust
 
-大家好，欢迎收看另一期的*这周在鲁斯特。*！[Rust](https://www.rust-lang.org/)是一种编程语言，使每个人都能够构建可靠且高效的软件。这是对其进展和社区的每周总结。想提点什么吗？在 [@ 这个星期铁锈](https://x.com/ThisWeekInRust)X（以前的 Twitter）或 [@ 这个星期铁锈](https://mastodon.social/@thisweekinrust)Mastodon.Social 上标记我们，或者[向我们发送拉取请求](https://github.com/rust-lang/this-week-in-rust)。想参与吗？[我们热爱贡献](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)。
+大家好，欢迎收看另一期的*这周在鲁斯特。*！[Rust](https://www.rust-lang.org/)是一种编程语言，使每个人都能够构建可靠且高效的软件。这是对其进展和社区的每周总结。想提点什么吗？在 [@ 这个星期Rust](https://x.com/ThisWeekInRust)X（以前的 Twitter）或 [@ 这个星期Rust](https://mastodon.social/@thisweekinrust)Mastodon.Social 上标记我们，或者[向我们发送拉取请求](https://github.com/rust-lang/this-week-in-rust)。想参与吗？[我们热爱贡献](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)。
 
  *这周在鲁斯特。*是公开开发的[on GitHub](https://github.com/rust-lang/this-week-in-rust)，档案可以在上[这一周在 rust.org](https://this-week-in-rust.org/)查看。如果你在本周的期刊中发现任何错误，[请提交 PR](https://github.com/rust-lang/this-week-in-rust/pulls)。
 
@@ -36,10 +37,10 @@ and just ask the editors to select the category.
 *  [Rust 的设计目标应该是关于代码的](https://tmandry.gitlab.io/blog/posts/the-main-thing/)
 *  [UnpinCell](https://without.boats/blog/unpin-cell/)
 *  [阻塞代码是一种有漏洞的抽象](https://notgull.net/blocking-leaky/)
-*  [作为铁锈项目贡献者的生活](https://yaah.dev/staying-involved)
+*  [作为Rust项目贡献者的生活](https://yaah.dev/staying-involved)
 *  [RustLS 的性能优于 OpenSSL 和 BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 *  [在 Bevy 中使用 libgdx 纹理图谱](https://rustunit.com/blog/2024/10-21-bevy-libgdx-atlas/)
-* [音频] [生产中的铁锈 - 与康拉德 · 欧文一起](https://corrode.dev/podcast/s03e01-zed/)
+* [音频] [生产中的Rust - 与康拉德 · 欧文一起](https://corrode.dev/podcast/s03e01-zed/)
 * [音频] [异步分配器](https://sdr-podcast.com/episodes/async-allocators/)
 * [音频] [PubNub 与斯蒂芬 · 布鲁姆](https://rustacean-station.org/episode/stephen-blum/)
 
@@ -51,7 +52,7 @@ and just ask the editors to select the category.
 *  [在 Rust WebApps 中使用 Web Workers](https://allwright.io/#/blog/20241016-using-web-workers.md)
 
 ### 其他的
-*  [创建铁锈社区](https://www.understandingrecruitment.com/knowledge-hub/blog/the-rust-review-starting-a-rust-community/)
+*  [创建Rust社区](https://www.understandingrecruitment.com/knowledge-hub/blog/the-rust-review-starting-a-rust-community/)
 
 ## 本周板条箱
 
@@ -212,7 +213,7 @@ RFC 实现的一个重要步骤是让人们对实现进行试验并给出反馈�
 
 ###  [批准的 RFC](https://github.com/rust-lang/rfcs/commits/master)
 
-铁锈的变化随着铁锈而来[RFC（征求意见）流程](https://github.com/rust-lang/rfcs#rust-rfcs)。以下是本周批准实施的 RFC：
+Rust的变化随着Rust而来[RFC（征求意见）流程](https://github.com/rust-lang/rfcs#rust-rfcs)。以下是本周批准实施的 RFC：
 
 * [RFC：允许将布尔文字用作 `cfg` 谓词] (https：//github.com/rust-lang/rfcs/pull/3695）
 
@@ -261,38 +262,38 @@ RFC 实现的一个重要步骤是让人们对实现进行试验并给出反馈�
 2024 - 10 - 23 - 2024 - 11 - 20 之间的生锈事件
 
 ### 虚拟的
-* 2024 - 10 - 24| 虚拟 | [铁锈中的女人](https://www.meetup.com/women-in-rust/)
+* 2024 - 10 - 24| 虚拟 | [Rust中的女人](https://www.meetup.com/women-in-rust/)
     *  [** 第 4 部分（共 4 部分） - 黑客马拉松展示：最终项目和演示 **](https://www.meetup.com/women-in-rust/events/303213835/)
-* 2024 - 10 - 24| 虚拟（德国柏林）| [柏林开放科技学校](https://berline.rs/)+ [铁锈柏林](https://www.meetup.com/rust-berlin/)
-    *  [** 铁锈黑客和学习 **](https://meet.jit.si/RustHackAndLearnBerlin)| [** 镜像：铁锈黑客与学习聚会 **](https://www.meetup.com/rust-berlin/events/298633271/)
+* 2024 - 10 - 24| 虚拟（德国柏林）| [柏林开放科技学校](https://berline.rs/)+ [Rust柏林](https://www.meetup.com/rust-berlin/)
+    *  [** Rust黑客和学习 **](https://meet.jit.si/RustHackAndLearnBerlin)| [** 镜像：Rust黑客与学习聚会 **](https://www.meetup.com/rust-berlin/events/298633271/)
 * 2024 - 10 - 25| 虚拟（美国新泽西州泽西城）| [泽西城优雅而好奇的编码员俱乐部合作社](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/)
-    *  [** 铁锈编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/304100127/)
+    *  [** Rust编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/304100127/)
 * 2024 - 10 - 26| 虚拟（格但斯克，PL) | [Stacja it Trójmiasto](https://www.meetup.com/stacja-it-trojmiasto/)
     *  [**Rust–Budowanie Narzïdzi Dziaïjïcych w Linii Komend**](https://www.meetup.com/stacja-it-trojmiasto/events/303550643/)
-* 2024 - 10 - 29| 虚拟（美国德克萨斯州达拉斯）| [达拉斯铁锈](https://www.meetup.com/dallasrust/)
+* 2024 - 10 - 29| 虚拟（美国德克萨斯州达拉斯）| [达拉斯Rust](https://www.meetup.com/dallasrust/)
     *  [** 上周二 **](https://www.meetup.com/dallasrust/events/301585671/)
-* 2024 - 10 - 31| 虚拟（美国北卡罗来纳州夏洛茨维尔）| [夏洛茨维尔铁锈聚会](https://www.meetup.com/charlottesville-rust-meetup/)
+* 2024 - 10 - 31| 虚拟（美国北卡罗来纳州夏洛茨维尔）| [夏洛茨维尔Rust聚会](https://www.meetup.com/charlottesville-rust-meetup/)
     *  [** 合作打造 Rust 中的口译员 **](https://www.meetup.com/charlottesville-rust-meetup/events/298898048/)
 * 2024 - 10 - 31| 虚拟（德国纽伦堡）| [纽伦堡鲁斯特](https://www.meetup.com/rust-noris/)
-    *  [** 纽伦堡铁锈在线 **](https://www.meetup.com/rust-noris/events/300820274/)
+    *  [** 纽伦堡Rust在线 **](https://www.meetup.com/rust-noris/events/300820274/)
 * 2024 - 11 - 01| 虚拟（美国新泽西州泽西城）| [泽西城优雅而好奇的编码员俱乐部合作社](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/)
-    *  [** 铁锈编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/gvxrntygcpbcb/)
+    *  [** Rust编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/gvxrntygcpbcb/)
 * 2024 - 11 - 02| 虚拟（坎帕拉，乌干达）| [锈圈坎帕拉](https://www.eventbrite.com/o/rust-circle-kampala-65249289033/)
-    *  [** 铁锈圈聚会 **](https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587)
+    *  [** Rust圈聚会 **](https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587)
 * 2024 - 11 - 06| 虚拟（印第安纳州印第安纳波利斯，美国）| [Indy Rust](https://www.meetup.com/indyrs/)
     *  [**Indy.rs-社交距离 **](https://www.meetup.com/indyrs/events/302031651/)
-* 2024 - 11 - 07| 虚拟（德国柏林）| [柏林开放科技学校](https://berline.rs/)+ [铁锈柏林](https://www.meetup.com/rust-berlin/)
-    *  [** 铁锈黑客和学习 **](https://meet.jit.si/RustHackAndLearnBerlin)| [** 镜像：铁锈黑客与学习聚会 **](https://www.meetup.com/rust-berlin/events/298633272/)
+* 2024 - 11 - 07| 虚拟（德国柏林）| [柏林开放科技学校](https://berline.rs/)+ [Rust柏林](https://www.meetup.com/rust-berlin/)
+    *  [** Rust黑客和学习 **](https://meet.jit.si/RustHackAndLearnBerlin)| [** 镜像：Rust黑客与学习聚会 **](https://www.meetup.com/rust-berlin/events/298633272/)
 * 2024 - 11 - 08| 虚拟（美国新泽西州泽西城）| [泽西城优雅而好奇的编码员俱乐部合作社](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/)
-    *  [** 铁锈编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/304099245/)
-* 2024 - 11 - 12| 虚拟（美国德克萨斯州达拉斯）| [达拉斯铁锈](https://www.meetup.com/dallasrust/)
+    *  [** Rust编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/304099245/)
+* 2024 - 11 - 12| 虚拟（美国德克萨斯州达拉斯）| [达拉斯Rust](https://www.meetup.com/dallasrust/)
     *  [** 第二个星期二 **](https://www.meetup.com/dallasrust/events/299346985/)
-* 2024 - 11 - 14| 虚拟（美国北卡罗来纳州夏洛茨维尔）| [夏洛茨维尔铁锈聚会](https://www.meetup.com/charlottesville-rust-meetup/)
+* 2024 - 11 - 14| 虚拟（美国北卡罗来纳州夏洛茨维尔）| [夏洛茨维尔Rust聚会](https://www.meetup.com/charlottesville-rust-meetup/)
     *  [** 合作打造 Rust 中的口译员 **](https://www.meetup.com/charlottesville-rust-meetup/events/298898070/)
-* 2024 - 11 - 14| 虚拟和现场（美国华盛顿州西雅图）| [西雅图铁锈用户组](https://www.meetup.com/seattle-rust-user-group/)
+* 2024 - 11 - 14| 虚拟和现场（美国华盛顿州西雅图）| [西雅图Rust用户组](https://www.meetup.com/seattle-rust-user-group/)
     *  [**11 月聚会 **](https://www.meetup.com/join-srug/events/304166747/)
 * 2024 - 11 - 15| 虚拟（美国新泽西州泽西城）| [泽西城优雅而好奇的编码员俱乐部合作社](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/)
-    *  [** 铁锈编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/gvxrntygcpbtb/)
+    *  [** Rust编码/游戏开发星期五开放暴民会议！**](https://www.meetup.com/jersey-city-classy-curious-coders-club-cooperative/events/gvxrntygcpbtb/)
 * 2024 - 11 - 19| 虚拟（美国加利福尼亚州洛杉矶）| [DevTalk LA](https://www.meetup.com/lajugstudygroup/)
     *  [** 讨论 - 主题：Rust for UI**](https://www.meetup.com/lajugstudygroup/events/302952703/)
 * 2024 - 11 - 19| 虚拟（华盛顿特区，美国）| [Rust DC](https://www.meetup.com/rustdc/)
@@ -305,57 +306,57 @@ RFC 实现的一个重要步骤是让人们对实现进行试验并给出反馈�
     *  [**Rust 中的无 bug 并发 **](https://www.meetup.com/tokyo-rust-meetup/events/304107583/)
 
 ### 欧洲
-* 2024 - 10 - 26| 斯德哥尔摩，东南 | [斯德哥尔摩铁锈](https://www.meetup.com/Stockholm-Rust/)
+* 2024 - 10 - 26| 斯德哥尔摩，东南 | [斯德哥尔摩Rust](https://www.meetup.com/Stockholm-Rust/)
     *  [** 费里斯 FIKA 论坛 #6**](https://www.meetup.com/stockholm-rust/events/303918943/)
 * 2024 - 10 - 28| 法国巴黎 | [Rust Paris](https://www.meetup.com/rust-paris/events/)
-    *  [** 铁锈聚会 #71**](https://www.meetup.com/rust-paris/events/303663366/)
+    *  [** Rust聚会 #71**](https://www.meetup.com/rust-paris/events/303663366/)
 * 2024 - 10 - 29| 丹麦奥胡斯 | [鲁斯特 · 奥胡斯](https://www.meetup.com/rust-aarhus/)
     *  [** 黑客之夜 **](https://www.meetup.com/rust-aarhus/events/303479865)
-* 2024 - 10 - 30| 德国汉堡 | [铁锈聚会汉堡](https://www.meetup.com/rust-meetup-hamburg/)
+* 2024 - 10 - 30| 德国汉堡 | [Rust聚会汉堡](https://www.meetup.com/rust-meetup-hamburg/)
     *  [**Rust Hack&amp;Learn 2024 年 10 月 **](https://www.meetup.com/rust-meetup-hamburg/events/303373054/)
-* 2024 - 10 - 31| 德国柏林 | [柏林开放科技学校](https://berline.rs/)+ [铁锈柏林](https://www.meetup.com/rust-berlin/)
+* 2024 - 10 - 31| 德国柏林 | [柏林开放科技学校](https://berline.rs/)+ [Rust柏林](https://www.meetup.com/rust-berlin/)
     *  [**Rust and Tell-标题 **](https://www.meetup.com/rust-berlin/events/300820289/)
 * 2024 - 11 - 06| 英国[牛津 Rust Meetup 集团](https://www.meetup.com/oxford-rust-meetup-group/)牛津
-    *  [** 牛津铁锈和 C++ 社交 **](https://www.meetup.com/oxford-rust-meetup-group/events/303123398/)
-* 2024 - 11 - 06| 法国巴黎 | [巴黎铁锈类](https://www.eventbrite.fr/o/paris-rustaceans-74289178383)
-    *  [** 在巴黎举行的铁锈聚会 **](https://www.eventbrite.fr/e/rust-meetup-in-paris-tickets-1037795553437)
-* 2024 - 11 - 14| 斯德哥尔摩，东南 | [斯德哥尔摩铁锈](https://www.meetup.com/Stockholm-Rust/)
+    *  [** 牛津Rust和 C++ 社交 **](https://www.meetup.com/oxford-rust-meetup-group/events/303123398/)
+* 2024 - 11 - 06| 法国巴黎 | [巴黎Rust类](https://www.eventbrite.fr/o/paris-rustaceans-74289178383)
+    *  [** 在巴黎举行的Rust聚会 **](https://www.eventbrite.fr/e/rust-meetup-in-paris-tickets-1037795553437)
+* 2024 - 11 - 14| 斯德哥尔摩，东南 | [斯德哥尔摩Rust](https://www.meetup.com/Stockholm-Rust/)
     *  [**Rust Meetup@uxstream**](https://www.meetup.com/stockholm-rust/events/304124737/)
 * 2024 - 11 - 19| 德国莱比锡 | [Rust-莱比锡的现代系统编程](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/)
     *  [**Daten Sichern mit ZFS（与锈蚀）**](https://www.meetup.com/rust-modern-systems-programming-in-leipzig/events/302425200/)
 
 ### 北美洲
 * 2024 - 10 - 23| 美国德克萨斯州奥斯汀 | [Rust ATX](https://www.meetup.com/rust-atx/)
-    *  [** 铁锈午餐 - 机票 **](https://www.meetup.com/rust-atx/events/xvkdgtygcnbfc/)
+    *  [** Rust午餐 - 机票 **](https://www.meetup.com/rust-atx/events/xvkdgtygcnbfc/)
 * 2024 - 10 - 26| 美国新泽西州纽瓦克 | [NJ 代码 &amp; 咖啡](https://www.meetup.com/nj-code-coffee/)
-    *  [** 铁锈简介：建立一个文本冒险游戏 X NJ 代码和咖啡 **](https://www.meetup.com/nj-code-coffee/events/304149949/)
+    *  [** Rust简介：建立一个文本冒险游戏 X NJ 代码和咖啡 **](https://www.meetup.com/nj-code-coffee/events/304149949/)
 * 2024 - 10 - 27| 美国马萨诸塞州坎布里奇 | [波士顿锈病会议](https://www.meetup.com/bostonrust/)
     *  [**Kendall Rust 午餐，10 月 27 日 **](https://www.meetup.com/bostonrust/events/303708359/)
-* 2024 - 10 - 28| 美国科罗拉多州博尔德 | [博尔德铁锈聚会](https://www.meetup.com/boulder-rust-meetup/)
+* 2024 - 10 - 28| 美国科罗拉多州博尔德 | [博尔德Rust聚会](https://www.meetup.com/boulder-rust-meetup/)
     *  [** 从头开始的泛型 **](https://www.meetup.com/boulder-rust-meetup/events/303766925/)
-* 2024 - 10 - 28| 美国密歇根州芬代尔 | [底特律铁锈](https://www.meetup.com/detroitrust/)
+* 2024 - 10 - 28| 美国密歇根州芬代尔 | [底特律Rust](https://www.meetup.com/detroitrust/)
     *  [**Rust 社区聚会-Ferndale**](https://www.meetup.com/detroitrust/events/303909299/)
-* 2024 - 10 - 28| 美国明尼苏达州明尼阿波利斯市 | [明尼阿波利斯铁锈聚会](https://www.meetup.com/minneapolis-rust-meetup/)
-    *  [** 明尼阿波利斯铁锈聚会欢乐时光 **](https://www.meetup.com/minneapolis-rust-meetup/events/303884468/)
-* 2024 - 10 - 29| 美国田纳西州纳什维尔 | [音乐之城铁锈开发商](https://www.meetup.com/music-city-rust-developers/)
-    *  [** 乐城铁锈开发商：集团现状及 2025 年预期 **](https://www.meetup.com/music-city-rust-developers/events/301425524/)
+* 2024 - 10 - 28| 美国明尼苏达州明尼阿波利斯市 | [明尼阿波利斯Rust聚会](https://www.meetup.com/minneapolis-rust-meetup/)
+    *  [** 明尼阿波利斯Rust聚会欢乐时光 **](https://www.meetup.com/minneapolis-rust-meetup/events/303884468/)
+* 2024 - 10 - 29| 美国田纳西州纳什维尔 | [音乐之城Rust开发商](https://www.meetup.com/music-city-rust-developers/)
+    *  [** 乐城Rust开发商：集团现状及 2025 年预期 **](https://www.meetup.com/music-city-rust-developers/events/301425524/)
 * 2024 - 10 - 30| 美国伊利诺伊州芝加哥 | [深盘锈](https://www.meetup.com/deep-dish-rust/)
     *  [**Rust Workshop：部署代码 **](https://www.meetup.com/deep-dish-rust/events/304071348/)
 * 2024 - 11 - 04| 美国马萨诸塞州布鲁克莱恩 | [波士顿锈病会议](https://www.meetup.com/bostonrust/)
-    *  [** 柯立芝街角布鲁克莱恩铁锈午餐，11 月 4 日 **](https://www.meetup.com/bostonrust/events/303708387/)
+    *  [** 柯立芝街角布鲁克莱恩Rust午餐，11 月 4 日 **](https://www.meetup.com/bostonrust/events/303708387/)
 * 2024 - 11 - 07| 美国密苏里州圣路易斯 | [STL Rust](https://www.meetup.com/stl-rust/)
     *  [** 使用 Rust 和 Bevy 引擎进行游戏开发 **](https://www.meetup.com/stl-rust/events/302371464/)
-* 2024 - 11 - 12| 美国密歇根州安阿伯市 | [底特律铁锈](https://www.meetup.com/detroitrust/)
-    *  [** 铁锈社区聚会 - 安娜堡 **](https://www.meetup.com/detroitrust/events/cvdcntygcpbqb/)
+* 2024 - 11 - 12| 美国密歇根州安阿伯市 | [底特律Rust](https://www.meetup.com/detroitrust/)
+    *  [** Rust社区聚会 - 安娜堡 **](https://www.meetup.com/detroitrust/events/cvdcntygcpbqb/)
 * 2024 - 11 - 15| 墨西哥城，DF，MX| [Rust MX](https://www.meetup.com/rust-mx/)
     *  [** 多线程 Y Async En Rust Parte 2 - 智能尖头 Y 闭包 **](https://www.meetup.com/rust-mx/events/304150412/)
 * 2024 - 11 - 15| 美国马萨诸塞州萨默维尔 | [波士顿锈病会议](https://www.meetup.com/bostonrust/)
     *  [**Ball Square Rust 午餐，11 月 15 日 **](https://www.meetup.com/bostonrust/events/303708398/)
 
 ### 大洋洲
-* 2024 - 10 - 28| 澳大利亚维多利亚州墨尔本 | [铁锈墨尔本](https://www.meetup.com/rust-melbourne/)
+* 2024 - 10 - 28| 澳大利亚维多利亚州墨尔本 | [Rust墨尔本](https://www.meetup.com/rust-melbourne/)
     *  [**2024 年 10 月 Rust 墨尔本会议 **](https://www.meetup.com/rust-melbourne/events/304034898/)
-* 2024 - 10 - 29| 澳大利亚首都堪培拉 | [堪培拉铁锈用户组（CRUG）](https://www.meetup.com/rust-canberra/)
+* 2024 - 10 - 29| 澳大利亚首都堪培拉 | [堪培拉Rust用户组（CRUG）](https://www.meetup.com/rust-canberra/)
     *  [** 六月聚会 **](https://www.meetup.com/rust-canberra/events/303128131/)
 * 2024 - 10 - 31| 奥克兰，新西兰 | [Rust AKL](https://www.meetup.com/rust-akl/)
     *  [**Rust AKL：Rust on AWS：可持续发展 + 和平：零压力自动化 **](https://www.meetup.com/rust-akl/events/303824919/)
@@ -388,8 +389,8 @@ https://github.com/rust-lang/this-week-in-rust/issues/3412
 
  [请提交报价并为下周投票！](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
 
-*《铁锈一周》由以下人员编辑：[内尔沙姆雷尔](https://github.com/nellshamrell)，[llogiq](https://github.com/llogiq)，[cdmistman](https://github.com/cdmistman)[埃里克塞帕宁](https://github.com/ericseppanen)[extrawurst](https://github.com/extrawurst)[安德鲁 · 波拉克](https://github.com/andrewpollack)[U007D](https://github.com/U007D)[kolharsam](https://github.com/kolharsam)[joelmarcey](https://github.com/joelmarcey)[玛丽安 · 戈尔丁](https://github.com/mariannegoldin)，，、，、，、[本尼瓦斯克斯](https://github.com/bennyvasquez)。*
+*《Rust一周》由以下人员编辑：[内尔沙姆雷尔](https://github.com/nellshamrell)，[llogiq](https://github.com/llogiq)，[cdmistman](https://github.com/cdmistman)[埃里克塞帕宁](https://github.com/ericseppanen)[extrawurst](https://github.com/extrawurst)[安德鲁 · 波拉克](https://github.com/andrewpollack)[U007D](https://github.com/U007D)[kolharsam](https://github.com/kolharsam)[joelmarcey](https://github.com/joelmarcey)[玛丽安 · 戈尔丁](https://github.com/mariannegoldin)，，、，、，、[本尼瓦斯克斯](https://github.com/bennyvasquez)。*
 
-* 电子邮件列表托管由 [铁锈基金会](https://foundation.rust-lang.org/)* 赞助
+* 电子邮件列表托管由 [Rust基金会](https://foundation.rust-lang.org/)* 赞助
 
 <small> [关于 R/Rust 的讨论](REDDIT_LINK_HERE)</small>

@@ -1,6 +1,7 @@
-标题：本周铁锈 528 编号：528 日期：2024 - 01 - 03 类别：本周铁锈
+标题：本周Rust 528 
+编号：528 日期：2024 - 01 - 03 类别：本周Rust
 
-大家好，欢迎收看另一期的*这周在鲁斯特。*！[Rust](https://www.rust-lang.org/)是一种编程语言，使每个人都能够构建可靠且高效的软件。这是对其进展和社区的每周总结。想提点什么吗？在 [@ 这个星期铁锈](https://twitter.com/ThisWeekInRust)Twitter 或 [@ 这个星期铁锈](https://mastodon.social/@thisweekinrust)Mastodon.Social 上标记我们，或者[向我们发送拉取请求](https://github.com/rust-lang/this-week-in-rust)。想参与吗？[我们热爱贡献](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)。
+大家好，欢迎收看另一期的*这周在鲁斯特。*！[Rust](https://www.rust-lang.org/)是一种编程语言，使每个人都能够构建可靠且高效的软件。这是对其进展和社区的每周总结。想提点什么吗？在 [@ 这个星期Rust](https://twitter.com/ThisWeekInRust)Twitter 或 [@ 这个星期Rust](https://mastodon.social/@thisweekinrust)Mastodon.Social 上标记我们，或者[向我们发送拉取请求](https://github.com/rust-lang/this-week-in-rust)。想参与吗？[我们热爱贡献](https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md)。
 
  *这周在鲁斯特。*是公开开发的[on GitHub](https://github.com/rust-lang/this-week-in-rust)，档案可以在上[这一周在 rust.org](https://this-week-in-rust.org/)查看。如果你在本周的期刊中发现任何错误，[请提交 PR](https://github.com/rust-lang/this-week-in-rust/pulls)。
 
@@ -24,7 +25,7 @@ and just ask the editors to select the category.
 
 ### 项目/工具更新
 *  [2023 年的 RustDoc JSON](https://alona.page/posts/rustdoc-json-2023/)
-*  [2023 年回顾：将铁锈确立为戈多 4 语言](https://godot-rust.github.io/dev/godot-rust-2023-review/)
+*  [2023 年回顾：将Rust确立为戈多 4 语言](https://godot-rust.github.io/dev/godot-rust-2023-review/)
 *  [Rust9x 更新：Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
 *  [宣布推出 SMOL-Macros、SMOL-Hyper 和 SMAL-Axum](https://notgull.net/new-smol-rs-subcrates/)
 *  [Rust 语言引导团队进度报告 2023](https://onurozkan.dev/read/rust-language-bootstrap-team-progress-report-2023/)
@@ -37,16 +38,16 @@ and just ask the editors to select the category.
 *  [弧 VS 弦，弧真的更快吗？](https://blocklisted.github.io/blog/arc_str_vs_string_is_it_really_faster/)
 *  [Iggy.rs-在 Rust 中构建消息流](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 *  [Rust 中的 Loco 入门：第 1 部分](https://www.shuttle.rs/blog/2023/12/28/using-loco-rust-rails)
-*  [铁锈印刷错误](https://heikoseeberger.de/2024-01-01-printing-errors/)
-* [视频] [铁锈 1.75.0:20 分钟内 54 个亮点！](https://youtu.be/Z8xig7wEV68)
+*  [Rust印刷错误](https://heikoseeberger.de/2024-01-01-printing-errors/)
+* [视频] [Rust 1.75.0:20 分钟内 54 个亮点！](https://youtu.be/Z8xig7wEV68)
 
 ### 其他的
 *  [测试用 Rust 编写的命令行应用程序](https://rust.code-maven.com/test-command-line-application)
 *  [用 Rust 编写的开源应用程序](https://rust.code-maven.com/applications)
 *  [提示 - 从 Rust 中的标准输入（stdin）读取输入](https://rust.code-maven.com/prompt)
-*  [测试你的嵌入式铁锈（Feat.嵌入式 Hal 模拟和爆炸）](https://barretts.club/posts/embedded-tests/)
+*  [测试你的嵌入式Rust（Feat.嵌入式 Hal 模拟和爆炸）](https://barretts.club/posts/embedded-tests/)
 * [视频] [除锈系列 1.75](https://www.youtube.com/watch?v=wDzyLFT3AwY)
-* [视频] [铁锈 1.75.0:20 分钟内 54 个亮点](https://www.youtube.com/watch?v=Z8xig7wEV68)
+* [视频] [Rust 1.75.0:20 分钟内 54 个亮点](https://www.youtube.com/watch?v=Z8xig7wEV68)
 
 
 ## 本周板条箱
@@ -309,14 +310,14 @@ https://github.com/rust-lang/this-week-in-rust/issues/3412
 
 > 有些人不相信死后的生命。Rust 在编译后不相信魔法。
 
-– [斯蒂芬 · 索科洛谈铁锈使用者](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1504)
+– [斯蒂芬 · 索科洛谈Rust使用者](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1504)
 
 谢谢你[托德 · 弗莱明](https://users.rust-lang.org/t/twir-quote-of-the-week/328/1505)的建议！
 
  [请提交报价并为下周投票！](https://users.rust-lang.org/t/twir-quote-of-the-week/328)
 
-*《铁锈一周》由以下人员编辑：[内尔沙姆雷尔](https://github.com/nellshamrell)，[llogiq](https://github.com/llogiq)，[cdmistman](https://github.com/cdmistman)[埃里克塞帕宁](https://github.com/ericseppanen)[extrawurst](https://github.com/extrawurst)[安德鲁 · 波拉克](https://github.com/andrewpollack)[U007D](https://github.com/U007D)[kolharsam](https://github.com/kolharsam)[joelmarcey](https://github.com/joelmarcey)[玛丽安 · 戈尔丁](https://github.com/mariannegoldin)，，、，、，、[本尼瓦斯克斯](https://github.com/bennyvasquez)。*
+*《Rust一周》由以下人员编辑：[内尔沙姆雷尔](https://github.com/nellshamrell)，[llogiq](https://github.com/llogiq)，[cdmistman](https://github.com/cdmistman)[埃里克塞帕宁](https://github.com/ericseppanen)[extrawurst](https://github.com/extrawurst)[安德鲁 · 波拉克](https://github.com/andrewpollack)[U007D](https://github.com/U007D)[kolharsam](https://github.com/kolharsam)[joelmarcey](https://github.com/joelmarcey)[玛丽安 · 戈尔丁](https://github.com/mariannegoldin)，，、，、，、[本尼瓦斯克斯](https://github.com/bennyvasquez)。*
 
-* 电子邮件列表托管由 [铁锈基金会](https://foundation.rust-lang.org/)* 赞助
+* 电子邮件列表托管由 [Rust基金会](https://foundation.rust-lang.org/)* 赞助
 
 <small> [关于 R/Rust 的讨论](https://www.reddit.com/r/rust/comments/18y3z3m/this_week_in_rust_528)</small>
