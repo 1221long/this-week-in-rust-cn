@@ -9,6 +9,7 @@ cache
 **/.idea
 .DS_Store
 zh-cn/GT4T*
+content/GT4T*
 
 # Publishing creations...
 publishing/email
